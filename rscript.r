@@ -13,11 +13,11 @@ fnames <- c('Jongno2020','Jongno2016',
             'SongpaB2020','SongpaB2016',
             'SongpaC2020','SongpaC2016',
             'GoyangsiA2020','GoyangsiA2016',
-            'YangcheonguA2016','YangcheonguA2020',
-            'YangcheonguB2016','YangcheonguB2020',
-            'Yeojusi2016','Yeojusi2020',
-            'YonginsiC2016','YonginsiC2016',
-            'YonginsiD2016','YonginsiD2020')
+            'YangcheonguA2020','YangcheonguA2016',
+            'YangcheonguB2020','YangcheonguB2016',
+            'Yeojusi2020','Yeojusi2016',
+            'YonginsiC2020','YonginsiC2016',
+            'YonginsiD2020','YonginsiD2016')
 
 for(fname in fnames) {
 
