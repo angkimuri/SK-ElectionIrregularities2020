@@ -17,7 +17,8 @@ fnames <- c('Jongno2020','Jongno2016',
             'YangcheonguB2020','YangcheonguB2016',
             'Yeojusi2020','Yeojusi2016',
             'YonginsiC2020','YonginsiC2016',
-            'YonginsiD2020','YonginsiD2016')
+            'YonginsiD2020','YonginsiD2016',
+            'GwanakA2020','GwanakA2016')
 
 for(fname in fnames) {
 
